@@ -1,0 +1,22 @@
+					CSS CODES 
+
+- if u want to change the whole webpage to change into one font or colour use asterix 
+the code is 
+		* {
+		     font-family:Arial;}
+
+*Precedences in css (in slide)
+  1. Inline
+  2.
+  3.
+
+*using external css is the best practice.
+
+*type attribute in css is nt much used. 
+
+*the css file should be individually called to each pg
+
+*we can call each para or heading individually and add different css to each.
+
+*CSS Padding is used to create space around an element's content, inside of any defined borders.
+		px = pixels
